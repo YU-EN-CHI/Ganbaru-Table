@@ -1,7 +1,7 @@
 {
 "name" : "BMSひたすら頑張りまくる難易度表",
 "symbol" : "?",
-"data_url" : "",
+"data_url" : "https://script.google.com/macros/s/AKfycbzG8FGB6E4bUYMiOfgN3QX6WkHL0nhYyO-minOTzxtNEykWmu951ZC7R2vQIcpeDxgCYw/exec",
 "course":[
 {"name": "sl9腕", "constraint": ["grade_random", "gauge_lr2", "ln", ""], "md5": ["4c1ca130592c2b0d1bd0b55cceb94f5c", "efa5defcff334b6e382aab26ec375e5a", "481bded0f838483a5d7913163abb485f", "9972c3c56cdd534bc0374d1c98d962aa"]},
 {"name": "sl9中速", "constraint": ["grade_random", "gauge_lr2", "ln", ""], "md5": ["295dfc6bac48fd8a805173be0a5360d0", "1bc98542eaf7f0cccfb4026bb3c25f49", "24cc4e6f36cd17f79ec4f34a22baf924", "afc7ec7e2518f906dc5ae53808312a37"]},
